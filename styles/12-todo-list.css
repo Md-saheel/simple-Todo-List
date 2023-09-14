@@ -2,6 +2,10 @@ body{
   font-family: Arial;
 }
 
+p{
+  font-weight: bold;
+}
+
 .todo-full-grid{
   display: grid;
   justify-content: center;
