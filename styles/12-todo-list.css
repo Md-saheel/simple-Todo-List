@@ -2,6 +2,13 @@ body{
   font-family: Arial;
 }
 
+.todo-full-grid{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
 .todo-grid,
 .todo-input-grid{
   display: grid;
